@@ -1,3 +1,5 @@
+![Titanic CI](https://github.com/csantosh888/Titanic-Survival-Prediction/actions/workflows/ci.yml/badge.svg)
+
 # Titanic Survival ML Pipeline
 
 An end-to-end machine learning project predicting passenger survival on the Titanic using structured data, feature engineering, model comparison, and deployment.
