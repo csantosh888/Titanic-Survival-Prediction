@@ -1,18 +1,23 @@
-# Titanic-Survival-Prediction
+# Titanic Survival ML Pipeline
 
-Predicting the survival of the passenger on the Titanic using the Machine Learning
+An end-to-end machine learning project predicting passenger survival on the Titanic using structured data, feature engineering, model comparison, and deployment.
 
 ## Project Goal
-Build a classification model that predicts the survival outcomes.
+The goal of this project is to build a reproducible machine learning pipeline that predicts whether a passenger survived the Titanic disaster based on demographic, ticket, and travel information.
 
 ## Dataset
-Kaggle Titanic Dataset
+The dataset comes from the Kaggle Titanic Machine Learning competition.
 
-## Tools Used
-- Python
-- Pandas
-- NumPy
+## Key Skills Demonstrated
+- Data Cleaning
+- Feature Engineering
+- Model Selection
+- Hyperparameter Tuning
+- Explainable AI
+- Deployment
 
-## Workflow
-1. Data Cleaning
-2. EDA
+## Models Compared
+- Logistic Regression
+- Random Forest
+- Neural Network
+
